@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","login.css"],"names":[],"mappings":"AAAA,UAEE,WACF,CAEA,IACE,iCACF,CCPA,cACE,WACF","file":"main.a745a8ec.chunk.css","sourcesContent":["html,\nbody {\n  height: 100%;\n}\n\n.fa {\n  font-family: FontAwesome !important;\n}\n","div.container {\r\n  height: 40vh;\r\n}\r\n"]}
